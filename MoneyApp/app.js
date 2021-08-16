@@ -111,7 +111,7 @@ async function dataRetrive(){
 }
 
 setTimeout(async function(){
-    if(window.location.href == 'file:///E:/SMIT%20WORK/JS/JSFirebase/MoneyApp/home.html' ){
+    if(window.location.href == 'https://abdulsaboor100.github.io/FoneyMoney/MoneyApp/home.html' ){
        fetchBalance()
        dataRetrive()
 }
